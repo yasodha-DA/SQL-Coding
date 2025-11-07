@@ -7,7 +7,7 @@ This repository features a wide range of SQL challenges designed to reinforce ke
 - Grouping and set operations
 - Real-world problem-solving with SQL.
 
-  Learning Goals
+  Learning Goals:
 - Enhance SQL proficiency through hands-on, practical challenges
 - Master the art of writing clean, efficient, and readable queries
 - Prepare for technical interviews with industry-relevant SQL problems
