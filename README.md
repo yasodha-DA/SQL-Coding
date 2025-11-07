@@ -1,4 +1,5 @@
 MY SQL CODING CHALLENGES
+
 This repository features a wide range of SQL challenges designed to reinforce key concepts, including:
 - Data filtering, aggregation, and sorting
 - Joins: INNER, LEFT, RIGHT, FULL
